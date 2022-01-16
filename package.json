@@ -1,0 +1,13 @@
+{
+  "name": "icecream",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "asc --target release",
+    "build:debug": "asc --target debug",
+    "start": "w4 watch"
+  },
+  "devDependencies": {
+    "assemblyscript": "^0.19.12",
+    "wasm4": "^2.1.0"
+  }
+}

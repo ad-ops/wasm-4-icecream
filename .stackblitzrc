@@ -1,0 +1,4 @@
+{
+  "startCommand": "npm run start",
+  "installDependencies": true
+}
